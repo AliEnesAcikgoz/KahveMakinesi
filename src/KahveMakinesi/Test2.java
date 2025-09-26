@@ -2,6 +2,6 @@ package KahveMakinesi;
 
 public class Test2 {
     public static void main(String[] args) {
-        System.out.println("Test 2 oluşturuldu");
+        System.out.println("Test 2 değişti");
     }
 }
