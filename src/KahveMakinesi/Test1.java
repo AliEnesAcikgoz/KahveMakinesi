@@ -3,5 +3,7 @@ package KahveMakinesi;
 public class Test1 {
     public static void main(String[] args) {
         System.out.println("Ilk test yazıldı");
+        System.out.println("Bu testte update yapilmiştir");
     }
+
 }
